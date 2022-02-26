@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1234567",
+    "type":"radio",
+    "name":"question 1",
+    "learningObjective":"objective1",
+    "createdAt":"2021-11-23T03:22:46.934248Z",
+    "updatedAt":"2021-11-23T03:22:46.934248Z",
+    "createdBy":"somebody@rstudio.com",
+    "updatedBy":"somebody@rstudio.com",
+    "randomAnswerOrder": true,
+    "allowRetry": true,
+    "questionPrompt":"Which join function is best for the task of adding the full airline name to the count of departures by carrier?",
+    "answers": [
+      {
+        "label":"Left join",
+        "value":"`left_join()`",
+        "correct": true,
+        "feedbackMessage":""
+      },
+      {
+        "label":"Right join",
+        "value":"`right_join()`",
+        "correct": false,
+        "feedbackMessage":"Because a <code>right_join()<\/code> keeps all of the rows in the right table, airlines, it introduces rows with missing values for carriers in airlines that didn&#39;t fly on this day."
+      },
+      {
+        "label":"Inner join",
+        "value":"inner_join()",
+        "correct": false,
+        "feedbackMessage":""
+      }
+    ],
+    "messages": {
+      "correct":"That&#39;s right! We&#39;ll stick with left joins in this tutorial, but the concepts we&#39;re learning apply to all joins",
+      "tryAgain":"Incorrect",
+      "incorrect": "Incorrect",
+      "infoMessage": ""
+    }
+  },
+  {
+    "id": "1231252",
+    "type":"checkbox",
+    "name":"",
+    "learningObjective":"objective 2",
+    "createdAt":"2021-11-23T03:22:46.934248Z",
+    "updatedAt":"2021-11-23T03:22:46.934248Z",
+    "createdBy":"somebody@rstudio.com",
+    "updatedBy":"somebody@rstudio.com",
+    "randomAnswerOrder": true,
+    "allowRetry": true,
+    "questionPrompt":"Which join function is best for the task of adding the full airline name to the count of departures by carrier?",
+    "answers": [
+      {
+        "label":"tailnum",
+        "value":"tailnum",
+        "correct": true,
+        "feedbackMessage":""
+      },
+      {
+        "label":"year",
+        "value":"year",
+        "correct": true,
+        "feedbackMessage":""
+      },
+      {
+        "label":"manufacturer",
+        "value":"manufacturer",
+        "correct": true,
+        "feedbackMessage":""
+      }
+    ],
+    "messages": {
+      "correct":"Great work! Both year and tailnum were used in the join. But do these columns mean the same thing in both tables?",
+      "tryAgain":"Hmmm... not quite. Try it again. You get better each time",
+      "incorrect": "Hmmm... not quite. Try it again. You get better each time",
+      "infoMessage": ""
+    }
+  }
+]
