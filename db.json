@@ -3,8 +3,8 @@
     {
       "id": "1234567",
       "type":"radio",
-      "name":"question 1",
-      "learningObjective":"objective1",
+      "name":"Question 1",
+      "learningObjective":"Objective 1",
       "createdAt":"2021-11-23T03:22:46.934248Z",
       "updatedAt":"2021-11-23T03:22:46.934248Z",
       "createdBy":"somebody@rstudio.com",
@@ -42,8 +42,8 @@
     {
       "id": "1231252",
       "type":"checkbox",
-      "name":"question 2",
-      "learningObjective":"objective 2",
+      "name":"Question 2",
+      "learningObjective":"Objective 2",
       "createdAt":"2021-11-23T03:22:46.934248Z",
       "updatedAt":"2021-11-23T03:22:46.934248Z",
       "createdBy":"somebody@rstudio.com",
