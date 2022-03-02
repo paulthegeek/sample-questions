@@ -119,7 +119,7 @@
     },
     {
       "id": "1231254",
-      "type":"checkbox",
+      "type":"radio",
       "name":"Question 4",
       "learningObjective":"Objective 3",
       "createdAt":"2021-11-23T03:22:46.934248Z",
@@ -158,7 +158,7 @@
     },
     {
       "id": "1231255",
-      "type":"checkbox",
+      "type":"Fill in Blank",
       "name":"Question 5",
       "learningObjective":"Objective 3",
       "createdAt":"2021-11-23T03:22:46.934248Z",
@@ -197,7 +197,7 @@
     },
     {
       "id": "1231256",
-      "type":"checkbox",
+      "type":"radio",
       "name":"Question 6",
       "learningObjective":"Objective 4",
       "createdAt":"2021-11-23T03:22:46.934248Z",
