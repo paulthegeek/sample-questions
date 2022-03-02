@@ -77,6 +77,162 @@
         "incorrect": "Hmmm... not quite. Try it again. You get better each time",
         "infoMessage": ""
       }
+    },
+    {
+      "id": "1231253",
+      "type":"checkbox",
+      "name":"Question 3",
+      "learningObjective":"Objective 2",
+      "createdAt":"2021-11-23T03:22:46.934248Z",
+      "updatedAt":"2021-11-23T03:22:46.934248Z",
+      "createdBy":"somebody@rstudio.com",
+      "updatedBy":"somebody@rstudio.com",
+      "randomAnswerOrder": true,
+      "allowRetry": true,
+      "questionPrompt":"Which join function is best for the task of adding the full airline name to the count of departures by carrier?",
+      "answers": [
+        {
+          "label":"tailnum",
+          "value":"tailnum",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"year",
+          "value":"year",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"manufacturer",
+          "value":"manufacturer",
+          "correct": true,
+          "feedbackMessage":""
+        }
+      ],
+      "messages": {
+        "correct":"Great work! Both year and tailnum were used in the join. But do these columns mean the same thing in both tables?",
+        "tryAgain":"Hmmm... not quite. Try it again. You get better each time",
+        "incorrect": "Hmmm... not quite. Try it again. You get better each time",
+        "infoMessage": ""
+      }
+    },
+    {
+      "id": "1231252",
+      "type":"checkbox",
+      "name":"Question 4",
+      "learningObjective":"Objective 3",
+      "createdAt":"2021-11-23T03:22:46.934248Z",
+      "updatedAt":"2021-11-23T03:22:46.934248Z",
+      "createdBy":"somebody@rstudio.com",
+      "updatedBy":"somebody@rstudio.com",
+      "randomAnswerOrder": true,
+      "allowRetry": true,
+      "questionPrompt":"Which join function is best for the task of adding the full airline name to the count of departures by carrier?",
+      "answers": [
+        {
+          "label":"tailnum",
+          "value":"tailnum",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"year",
+          "value":"year",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"manufacturer",
+          "value":"manufacturer",
+          "correct": true,
+          "feedbackMessage":""
+        }
+      ],
+      "messages": {
+        "correct":"Great work! Both year and tailnum were used in the join. But do these columns mean the same thing in both tables?",
+        "tryAgain":"Hmmm... not quite. Try it again. You get better each time",
+        "incorrect": "Hmmm... not quite. Try it again. You get better each time",
+        "infoMessage": ""
+      }
+    },
+    {
+      "id": "1231252",
+      "type":"checkbox",
+      "name":"Question 5",
+      "learningObjective":"Objective 3",
+      "createdAt":"2021-11-23T03:22:46.934248Z",
+      "updatedAt":"2021-11-23T03:22:46.934248Z",
+      "createdBy":"somebody@rstudio.com",
+      "updatedBy":"somebody@rstudio.com",
+      "randomAnswerOrder": true,
+      "allowRetry": true,
+      "questionPrompt":"Which join function is best for the task of adding the full airline name to the count of departures by carrier?",
+      "answers": [
+        {
+          "label":"tailnum",
+          "value":"tailnum",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"year",
+          "value":"year",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"manufacturer",
+          "value":"manufacturer",
+          "correct": true,
+          "feedbackMessage":""
+        }
+      ],
+      "messages": {
+        "correct":"Great work! Both year and tailnum were used in the join. But do these columns mean the same thing in both tables?",
+        "tryAgain":"Hmmm... not quite. Try it again. You get better each time",
+        "incorrect": "Hmmm... not quite. Try it again. You get better each time",
+        "infoMessage": ""
+      }
+    },
+    {
+      "id": "1231252",
+      "type":"checkbox",
+      "name":"Question 6",
+      "learningObjective":"Objective 4",
+      "createdAt":"2021-11-23T03:22:46.934248Z",
+      "updatedAt":"2021-11-23T03:22:46.934248Z",
+      "createdBy":"somebody@rstudio.com",
+      "updatedBy":"somebody@rstudio.com",
+      "randomAnswerOrder": true,
+      "allowRetry": true,
+      "questionPrompt":"Which join function is best for the task of adding the full airline name to the count of departures by carrier?",
+      "answers": [
+        {
+          "label":"tailnum",
+          "value":"tailnum",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"year",
+          "value":"year",
+          "correct": true,
+          "feedbackMessage":""
+        },
+        {
+          "label":"manufacturer",
+          "value":"manufacturer",
+          "correct": true,
+          "feedbackMessage":""
+        }
+      ],
+      "messages": {
+        "correct":"Great work! Both year and tailnum were used in the join. But do these columns mean the same thing in both tables?",
+        "tryAgain":"Hmmm... not quite. Try it again. You get better each time",
+        "incorrect": "Hmmm... not quite. Try it again. You get better each time",
+        "infoMessage": ""
+      }
     }
   ]
 }
